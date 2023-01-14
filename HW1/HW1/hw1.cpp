@@ -1,7 +1,6 @@
 /*********
-   CTIS164 - Template Source Program
 ----------
-STUDENT : Mehmet Enes Çakýr
+STUDENT : Mehmet Enes Ã‡akÃ½r
 SECTION : 01
 HOMEWORK: HOMEWORK 1
 ----------
