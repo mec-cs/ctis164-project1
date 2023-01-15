@@ -1,5 +1,5 @@
 # ctis164-project1
-Basic animation project given in the ctis164 course
+Basic animation project prepared for ctis164
 
 User add axes on the limited game area by clicking left mouse button. When F1 key is pressed, axes move towards the nearest edge (right or left) with random speeds.
 
