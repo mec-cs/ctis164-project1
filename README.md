@@ -1,4 +1,4 @@
-# ctis164-project1
+# GLUT/OpenGL Animation Project #1
 Basic animation project prepared for ctis164
 
 User add axes on the limited game area by clicking left mouse button. When F1 key is pressed, axes move towards the nearest edge (right or left) with random speeds.
