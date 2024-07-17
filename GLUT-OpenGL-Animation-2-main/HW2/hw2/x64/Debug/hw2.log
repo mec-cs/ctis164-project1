@@ -1,0 +1,149 @@
+﻿  hw2.cpp
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(75,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(76,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(76,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(89,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(90,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(90,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(99,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(99,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(118,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(118,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(134,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(134,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(149,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(151,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(153,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(155,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(158,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(160,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(162,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(164,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(167,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(169,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(171,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(173,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(176,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(178,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(180,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(182,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(185,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(187,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(189,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(191,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(199,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(199,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(199,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(199,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(202,39): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(202,31): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(202,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(202,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(206,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(206,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(207,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(207,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(208,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(208,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(213,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(213,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(214,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(214,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(215,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(215,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(221,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(222,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(222,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(223,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(223,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(224,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(224,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(225,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(225,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(226,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(226,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(227,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(227,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(228,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(228,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(234,48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(235,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(235,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(236,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(236,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(237,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(237,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(238,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(238,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(239,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(239,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(240,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(240,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(241,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(241,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(248,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(248,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(249,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(249,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(250,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(250,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(251,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(251,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(252,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(252,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(253,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(253,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(254,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(254,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(255,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(255,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(256,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(256,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(257,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(257,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(258,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(258,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(264,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(264,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(265,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(265,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(266,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(266,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(267,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(267,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(268,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(268,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(269,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(269,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(270,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(270,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(277,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(277,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(279,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(279,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(281,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(281,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(283,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(283,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(285,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(285,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(287,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(287,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(289,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(289,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(291,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(291,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(293,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(293,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(295,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(295,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(301,34): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(301,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(301,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(301,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(441,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(481,47): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(484,47): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(490,47): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\CTIS164\HW2\hw2\hw2.cpp(807,35): warning C4326: return type of 'main' should be 'int' instead of 'void'
+LINK : fatal error LNK1104: cannot open file 'freeglut.lib'
